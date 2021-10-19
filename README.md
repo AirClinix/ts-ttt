@@ -14,11 +14,12 @@ Jest should then say:
 ```
  PASS  ./game.test.ts
   game
-    ✓ sums two numbers (1 ms)
+    ✓ sums two numbers (2 ms)
+    ✓ asynchronously sums 2 numbers (1 ms)
 
 Test Suites: 1 passed, 1 total
-Tests:       1 passed, 1 total
+Tests:       2 passed, 2 total
 Snapshots:   0 total
-Time:        1.393 s, estimated 2 s
+Time:        1.392 s, estimated 2 s
 Ran all test suites.
 ```
