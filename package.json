@@ -1,0 +1,19 @@
+{
+  "name": "ts-ttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7"
+  }
+}
